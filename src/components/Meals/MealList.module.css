@@ -1,7 +1,7 @@
 .meals {
     max-width: 50rem;
     width: 90%;
-    margin: 0 10rem;
+    margin: 0 20rem;
     animation: meals-appear 1s ease-out forwards;
 }
 
